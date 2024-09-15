@@ -1,4 +1,4 @@
 # myfirst-demo
-This is my first git repository
+This is my first git repository.
 <dr>
-Author anjali malviya
+Author : anjali malviya
